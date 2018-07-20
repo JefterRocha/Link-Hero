@@ -1,6 +1,6 @@
 # Link-Hero
 
-![Banana](https://i.imgur.com/FWPSiEB.png)
+![Banana](https://i.imgur.com/AsHj9E2.png)
 
 ## How it Works
 So just click on the comment that is supposed to be a link and LinkHero will do all the work for you, returning the link ready to be pasted in the search bar.
