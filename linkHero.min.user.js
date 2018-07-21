@@ -5,8 +5,8 @@
 // @description  Remove the spaces from your friend's comment link on Facebook
 // @author       Jefter de A. Rocha
 // @match        https://www.facebook.com/*
-// @updateURL    https://github.com/JefterRocha/Link-Hero/master/linkHero.min.meta.js
-// @downloadURL  https://github.com/JefterRocha/Link-Hero/master/linkHero.min.user.js
+// @updateURL    https://github.com/JefterRocha/Link-Hero/raw/master/linkHero.min.meta.js
+// @downloadURL  https://github.com/JefterRocha/Link-Hero/raw/master/linkHero.min.user.js
 // @supportURL   https://github.com/JefterRocha/Link-Hero/issues
 // @grant        none
 // ==/UserScript==
